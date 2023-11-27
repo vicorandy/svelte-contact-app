@@ -24,7 +24,7 @@ In order to install and run this project locally, you would need to install the 
 - Clone this repository
 
 ```
-git clone [https://github.com/vicorandy/svelte-contact-app.git]
+git clone https://github.com/vicorandy/svelte-contact-app.git
 ```
 - Run `npm install` or `yarn` to install the project dependencies
 - Run `npm run dev -- --open`
